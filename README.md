@@ -8,7 +8,7 @@ It features secure **Google OAuth authentication**, real-time synchronization, a
 
 ## 🚀 Live Demo
 
-👉 [Visit the Deployed App](https://your-app-url.vercel.app)
+👉 [Visit the Deployed App]https://bookmark-omega-jade.vercel.app)
 
 ---
 
